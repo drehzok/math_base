@@ -1,0 +1,22 @@
+# Obsidian local settings and workspace state
+.obsidian/
+! .obsidian/app.json
+! .obsidian/appearance.json
+! .obsidian/core-plugins.json
+! .obsidian/hotkeys.json
+
+# Local Gemini CLI state
+.gemini/
+
+# LaTeX temporary files (in case of local compilation)
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# OS specific files
+.DS_Store
+Thumbs.db
