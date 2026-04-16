@@ -19,4 +19,4 @@ where $[X, K(A, n)]$ denotes the set of homotopy classes of maps from $X$ to $K(
 - $\mathbb{CP}^\infty$ is a $K(\mathbb{Z}, 2)$.
 
 ## Sources
-- [[01-raw-sources/week1.pdf]]
+- [[01-raw-sources/topology2/week1.pdf]]

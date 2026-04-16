@@ -20,4 +20,4 @@ Using non-degeneracy, for $x \in H^1(\mathbb{RP}^2; \mathbb{F}_2)$ with $x \neq 
 This implies $H^*(\mathbb{RP}^2; \mathbb{F}_2) \cong \mathbb{F}_2[x] / (x^3)$.
 
 ## Sources
-- [[01-raw-sources/week1.pdf]]
+- [[01-raw-sources/topology2/week1.pdf]]

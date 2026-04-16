@@ -12,4 +12,4 @@ The cohomology of the cellular cochain complex is naturally isomorphic to the si
 $$H^n(C^*_{\text{cell}}(X; A)) \cong H^n(X; A)$$
 
 ## Sources
-- [[01-raw-sources/week1.pdf]]
+- [[01-raw-sources/topology2/week1.pdf]]

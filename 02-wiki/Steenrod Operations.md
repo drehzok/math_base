@@ -11,4 +11,4 @@ These operations provide more structure than the [[Cup Product]].
 Together, these operations assemble into a natural action by the **Steenrod algebra** $\mathcal{A}_2$ on $H^*(X; \mathbb{F}_2)$.
 
 ## Sources
-- [[01-raw-sources/week1.pdf]]
+- [[01-raw-sources/topology2/week1.pdf]]

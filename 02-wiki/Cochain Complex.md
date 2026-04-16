@@ -24,4 +24,4 @@ $$d_D^{n-1} s^n + s^{n+1} d_C^n = f^n - g^n$$
 for all $n$.
 
 ## Sources
-- [[01-raw-sources/week1.pdf]]
+- [[01-raw-sources/topology2/week1.pdf]]

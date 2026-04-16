@@ -14,4 +14,4 @@ For $n=1$, the fibration $S^3 \xrightarrow{S^1} S^2$ (the Hopf map $\eta: S^3 \t
 In particular, $\pi_3(S^2) \cong \mathbb{Z}$ with generator $\eta$.
 
 ## Sources
-- [[01-raw-sources/week1.pdf]]
+- [[01-raw-sources/topology2/week1.pdf]]

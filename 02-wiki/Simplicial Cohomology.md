@@ -21,4 +21,4 @@ $$H^n(Y, Y'; A) = H^n(\text{Hom}(C(Y; \mathbb{Z})/C(Y'; \mathbb{Z}), A))$$
    $$H^n(X, Y; A) \cong H^n(X \setminus U, Y \setminus U; A)$$
 
 ## Sources
-- [[01-raw-sources/week1.pdf]]
+- [[01-raw-sources/topology2/week1.pdf]]

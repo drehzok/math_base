@@ -17,4 +17,4 @@ $$\dots \to H^n A \xrightarrow{H^n f} H^n B \xrightarrow{H^n g} H^n C \xrightarr
 where $\partial[x] = [y]$ is the connecting homomorphism.
 
 ## Sources
-- [[01-raw-sources/week1.pdf]]
+- [[01-raw-sources/topology2/week1.pdf]]

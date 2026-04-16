@@ -13,4 +13,4 @@ then $\delta$ is a **chain homotopy equivalence**.
 In the proof of excision for cohomology, we use the fact that the chain complex of $O$-small simplices $C(\rho_O(X); \mathbb{Z}) \xrightarrow{\simeq} C(\rho(X); \mathbb{Z})$ is a quasi-isomorphism between degreewise free complexes. Thus it is a chain homotopy equivalence, which is preserved by the contravariant $\text{Hom}(-, A)$ functor, inducing an isomorphism on $H^*$.
 
 ## Sources
-- [[01-raw-sources/week1.pdf]]
+- [[01-raw-sources/topology2/week1.pdf]]

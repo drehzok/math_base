@@ -1,0 +1,401 @@
+So first I want to do some august stuff. First thing is about the room. I was told we are in the planning room and it seems that the bus is in this room.
+But it seems that the planning room is free. So we might just switch to the planning room next time because I think it's a better room.
+So next tutorials are Tuesday 2-4 in the seminar room 003.
+So about the exams. The exam will be over. Most likely except if they are coming to the computer which I don't expect.
+And so at some point in the semester break and we just agree on how to date them. What else?
+Yeah, so the first part of the course will be taught by me. The second part will be taught by Torstok, Julian van Gogh.
+And then the exercise sheets.
+So we had them all done. So today the two days. The two is also on all the time.
+And we just connect them here.
+And there is actually a web page.
+But we did have our goal. And then I advanced algebra.
+But I was able to put a limit on my average.
+So yeah, I think this is all what I want to do.
+So any questions about the organization?
+Okay, so then I'll just say a little bit what the talk is supposed to be and what the lectures are supposed to be.
+So here is some more of the rough motivation.
+So everything starts with an easy rule.
+So I have stations of the finite dimension of 0 into complex algebra.
+It's a very classical topic.
+And from there what we have is the modules.
+So these are the universal ISV modules.
+They are used to classify finite dimension of the images of models.
+They are also used to classify images of ISV modules and generally can't classify arbitrary images of models.
+So depending on this, there is this category O.
+And this is the category which was introduced by Thomas van Gogh.
+And so the name is, I think, a book.
+It just used a letter which wasn't used yet.
+But this is not this book.
+There's a category.
+So it became the...
+It's a bit along the...
+And it's a nice category.
+It's an appealing book.
+So once again, this was just to study the modules and things around it.
+But then it turned out that because we do here ISV theory, so it's the prototype of ISV.
+And so what comes out of this is the notion of basic things.
+So I would say, I think every category which I know in the ISV theory, which is somehow understood to some extent,
+is built from a highest rate category by either directly ISV or by taking a motion category or maybe taking an affine state of it.
+But everything can be released and something comes from that.
+So that means the point of the course is to explain what my expected categories are.
+And you should see this as somehow learning one of the most important concepts in mathematics.
+And then I can fill in many of the examples from very, very different contexts or whatever.
+So I give you maybe a few hints where this is connected to.
+So I said this is pretty long, but also all describes...
+Web stations read from really books.
+So it describes, for instance, web stations of S, A, and C.
+And we might view this as really interesting.
+So such that the web station is conditioned such that the compact sample,
+S1, adds same thing here in these web stations.
+So for a compact sample, we can justify the images of web stations that are in the same sector.
+And so this should add same thing with finite and minimum distance, or with finite and minimum distance.
+So just to give you a key word, so this is an example of what people call knowledge checkers.
+But this comes from a real web station, really.
+So what else can we say about this?
+So what is very important there are very nice homological properties.
+And actually there is current research results from this year where they solve quite open problems, homological problems of finite and minimum distance by giving examples of finite and minimum distance.
+So then, of course, the original motivation was to solve several problems in these images.
+So for instance, the question was, what is the character?
+Character formulas for images that are very homogeneous, which was known to be very hard problem.
+And so this is connected to several sets.
+So one thing it's connected to.
+So if you like, if you like, and it's connected to directly.
+So there's somehow more.
+Yeah.
+And there is a difference between this can be all and she's only like this.
+So the geometry.
+It's connected to the geometry of.
+Which are portions of.
+So in terms of.
+Yeah, it's connected to.
+Yes.
+And maybe.
+Yes.
+Example.
+So many examples.
+And so maybe some of you.
+Something.
+So, hey, originally, well, I think they would only be.
+And this is.
+Some people like this because you can actually find.
+It's actually.
+Because it's.
+But it's used to.
+And many of the modern constructions can only be understood, I think.
+So that's the point.
+So this is the.
+So this is the.
+So many.
+It's actually what I believe.
+A.
+Okay.
+I'm going to be the top.
+What are we going to do?
+So I will start with some sort of basic.
+So this is some of it.
+So in this, in this, in this lecture, I will only do.
+But we will come.
+This theory.
+It was very.
+And so what we what we try to do is try to formulate in modern language, but in normal categories, but in a way such that it can be.
+Generalized, but we will not do the.
+So what we do is then.
+And.
+This can be.
+So you spend some time on that.
+And then.
+There's some other.
+So this is.
+And.
+So this was in 1980s.
+And so this is.
+And then it was generalized in many directions.
+And so the.
+So this is this is this is.
+And.
+And partially.
+And.
+So this is.
+And so what is the difference between the.
+This is somehow covering all the cases which are.
+But in particular, what is the point in the new development, it's built on a six factor.
+And so the six factor.
+How it's used in web stations.
+Just.
+But I mean.
+It's it's clear.
+And so in the next few years, the web stations will be, I think, going into that action.
+In whatever.
+But still, I want to make some more connection with the old questions.
+But that's somehow.
+OK, so this will be part one and part two.
+And of course, I think the other examples coming coming up.
+So part two will be.
+And.
+That's moving.
+From this race.
+Well, this is a message from no one.
+So this kind of.
+They had some kind of.
+OK, good.
+Everybody.
+Questions.
+Now.
+OK, so I just thought this section.
+So.
+And so I thought the basic.
+First section is supposed to set up just some sort of language.
+We should agree.
+So I started saying.
+I.
+So it's it's.
+It is probably not.
+I mean, not everybody agrees or not really.
+Sorry.
+So it's it's.
+And then it's enriched in the books.
+The.
+And so I wish it does not just mean that we have.
+On the.
+But we also should have a composition is in the original composition.
+So if you want, it's a seven year category.
+OK.
+But then we want to.
+And the last thing we want to.
+So in particular.
+So.
+The.
+A.
+A.
+So this is what.
+And last time.
+So it's fine.
+I don't know.
+And so I'm assuming something is going to be a protected generator.
+And it's such a big deal.
+OK.
+So now.
+What is behind many of these questions is.
+So the identification is that we want to.
+So I said.
+But behind this.
+We want to understand how we can be split up from simple objects.
+And then they set up from the surface.
+So I'm going to somehow.
+How is it.
+So it is a.
+So that's my definition.
+And.
+And.
+So.
+If.
+So that is.
+But of course we are interested in.
+Right.
+So just to give you an idea of what.
+Absolutely.
+I give you a.
+Maybe.
+Let's assume this.
+Can you realize it as.
+And realize the basis in a natural way by having a nice.
+Absolutely.
+So.
+Of course everything is pretty strong.
+So I could also make this.
+So if anything.
+So anything just means.
+This would be.
+We don't have.
+But we have.
+You can ask the question maybe.
+So.
+And then the split split.
+So I know this class.
+So this is the same thing as before.
+Yeah.
+As before, but now.
+If.
+So for instance.
+And.
+Objectives.
+Is.
+Maybe.
+So.
+And in fact, they can.
+So.
+So.
+So.
+Generalizes.
+To whatever.
+Except.
+And I don't know.
+So.
+This is effective.
+So.
+So just as a remark.
+Except.
+Except.
+So I don't want you to say what this means, but when it just is a very general analysis.
+General definition of a candidate.
+The definition of a median.
+Image factorization.
+Yeah.
+We want to have the full.
+And the question.
+And does this.
+This is not a magic.
+I mean, for many things, I don't need to ask that.
+For.
+So, and then maybe I can also put here the last.
+So related to this last comment.
+For.
+What is called.
+This is.
+So.
+So we will not use this, but I just want to say this is a very general.
+Construction.
+Importantly, we have to specify what we mean by.
+And this is to Russian.
+So I mean, Russian.
+OK, so now.
+And a.
+Or anything.
+And.
+So.
+So.
+Then.
+And this is.
+And.
+I mean.
+And I mean, this is obvious.
+So you just think.
+So first, let's take this guy and don't.
+Take the model.
+And then.
+And then you have to find.
+And we just say.
+And then.
+And then.
+And then we have to check that.
+That's.
+Now, let me give you.
+Examples.
+Of.
+And they are very basic examples.
+It's important.
+This is.
+And you want to know.
+And the claim is that.
+And so on.
+So this.
+To the.
+Space.
+So.
+Just.
+So.
+And this is.
+Space.
+As a direct sum of the.
+And this time, some you can see as iterated sequences.
+And so that means this V, by definition, has to go to as many copies.
+As I mean to them.
+And.
+So.
+Everything is fine.
+So.
+It's obviously subjective.
+And it's.
+OK.
+So maybe I should.
+For clarification.
+Then it goes to.
+This goes to.
+And.
+And.
+And if I take.
+And this goes to the.
+So this is the form.
+Negative.
+Because I can't do anything like this or whatever.
+It's a phone.
+Yes.
+That's really good.
+Everything.
+OK.
+Let me let me do one more.
+Which is.
+So is that.
+So there is one dimensional.
+Of.
+So.
+That's not.
+Every sequence.
+So in this case.
+It's actually the same.
+But.
+And so.
+Is this.
+To say.
+The.
+The.
+The spaces.
+The.
+By.
+That.
+So I think here.
+The.
+The.
+The.
+The.
+The.
+The.
+The.
+So now.
+Every object in here can be written.
+As a direct sum of.
+Because it's it's simple.
+And so so this time it goes here to the top.
+And it can be written in there.
+I mean the multiplicity is underneath.
+And so.
+The.
+The.
+The.
+So.
+Maybe I'm.
+Now.
+This is.
+A.
+A.
+A.
+So, a number, so if A is a linear, or finite, so that means that any object has a filtration
+that such portions are similar, or irreducible, to a Jordan-Werner series, and my Jordan-Werner
+series, the filtration is not unique, but my list is how often every irreducible appears
+and so the second is that a line, a line in a system of examples of the isocalsis of the
+isocalsis, yes, then Kc of A is isomorphic to the free abelian group, so it is a free
+abelian group of free spaces, and so all this is hope, so it is okay if I take a filtration
+I send it to the corresponding basis element, and it's now exactly the same as the one upstairs.
+Every module has a filtration, some portions are irreducible, the multiplicities are unique
+by Jordan-Werner series, and these are exactly the coefficients here, and vice versa,
+so if I have, so if I go the opposite direction, I can define a morphism from these free abelian
+groups, and in every genoid I have the corresponding i, and any sort of shortage of templates
+gives just a sum for this. So that means in particular, if I take any n, then I send
+it to the sum of alpha i ci, and so almost all alpha i 0, and what are these alpha i?
+These alpha i are the multiplicity, so this is by definition the multiplicity of ai in
+the Jordan-Werner series, and so this is a value kind number, the series is not
+the series, I mean internally, but the multiplicity, and so you just send this module to this
+one.
+So, yes, and maybe I should say what our first goal is.
+So a and b will tell you, I'll find out next, and then the next is the right structure,
+between, on the one hand side, there are two small simple objects, so these are the
+isodosses, and the isodosses are simple objects, and on the other hand, you can
+move the objective objects up to either one. So this is the goal of the next things
+I'll do. So why won't we care about this? So what this I must ask. If you have a
+objective object, and you have the objective object, and you have the objective object,
+and you have the objective object, and you have the objective object, then you have the
+objective object, and you have the objective object, and you have the objective object,
+and you have the objective object, and you have the objective object, and you have the
+But I trust you to somehow classify these protective objects in this projection.
+And this is the next thing.
+But let me get first frame.

@@ -19,4 +19,4 @@ $\mathbb{CP}^2 \not\simeq S^2 \vee S^4$.
 *Proof*: $H^2$ of the wedge comes from $S^2$, so it can't generate $H^4$ which comes from $S^4 \to 0$. But $x^2 \neq 0$ for some $x \in H^2(\mathbb{CP}^2)$.
 
 ## Sources
-- [[01-raw-sources/week1.pdf]]
+- [[01-raw-sources/topology2/week1.pdf]]
