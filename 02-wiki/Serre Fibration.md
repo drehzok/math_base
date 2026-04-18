@@ -1,17 +1,24 @@
-Prerequisites: [[Homotopy Group]], [[Fibration]]
-
+---
+subject: topology
+---
 # Serre Fibration
+**Prerequisites:** [[Homotopy Group]]
 
-## Definition
-A map $p: E \to B$ is a **Serre fibration** if it has the homotopy lifting property with respect to every CW complex $X$. That is, for every map $H: X \times I \to B$ and map $h: X \times \{0\} \to E$ such that $p \circ h = H|_{X \times \{0\}}$, there exists a lift $\tilde{H}: X \times I \to E$ such that $p \circ \tilde{H} = H$ and $\tilde{H}|_{X \times \{0\}} = h$.
+## Definitions
+A map $p: E \to B$ is a **Serre fibration** if it satisfies the homotopy lifting property for CW complexes. That is, every diagram:
+$$ X \times \{0\} \to E $$
+$$ \downarrow \quad \swarrow \quad \downarrow p $$
+$$ X \times I \to B $$
+has a lifting that makes the triangles commute.
 
-## Theorem (Long Exact Sequence of Homotopy Groups)
-If $p: E \to B$ is a Serre fibration with fiber $F = p^{-1}(b)$ for some $b \in B$, then there is a long exact sequence:
-$$\dots \to \pi_n(F, x) \to \pi_n(E, x) \to \pi_n(B, p(x)) \xrightarrow{\partial} \pi_{n-1}(F, x) \to \dots$$
+## Theorems
+For a Serre fibration $p: E \to B$, if $b \in B$ and $F = p^{-1}(b)$, there exists a Long Exact Sequence (LES) of homotopy groups:
+$$ \dots \to \pi_n(F, x) \to \pi_n(E, x) \to \pi_n(B, x) \to \pi_{n-1}(F, x) \to \dots $$
 
-## Corollary (Hopf Fibration)
-For $n=1$, the fibration $S^3 \xrightarrow{S^1} S^2$ (the Hopf map $\eta: S^3 \to S^2$) induces an isomorphism $\pi_k(S^3) \cong \pi_k(S^2)$ for $k \geq 3$.
-In particular, $\pi_3(S^2) \cong \mathbb{Z}$ with generator $\eta$.
+## Examples
+- Fibre bundles
+- Covering spaces
+- Hopf map $S^{2n+1} \to \mathbb{CP}^n$ with fibre $S^1$.
 
 ## Sources
 - [[01-raw-sources/topology2/week1.pdf]]
